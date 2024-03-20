@@ -1,5 +1,6 @@
 name = "DeepCompartmentModels"
 authors = ["Janssena <alexanderjanssen@live.com>"]
+uuid = "398c52f8-e6e0-45bd-bf73-2340696b0a8d"
 version = "0.1.1"
 
 [deps]
